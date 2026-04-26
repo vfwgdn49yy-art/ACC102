@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+jupyter
+notebook
+nbformat>=4.2.0
